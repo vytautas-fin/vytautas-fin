@@ -8,7 +8,7 @@ I'm a **Data Analyst** and **BI Developer** with a background in **Finance**. I 
 
 Here are a few highlights of my work. Each project is a complete case study with a detailed breakdown in its repository.
 
-| Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Technologies |
+| Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Type &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Technologies |
 | :--- | :---: | :--- | :--- |
 | **[Executive Sales Dashboard](https://github.com/vytautas-fin/executive-sales-dashboard)** | ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-FB6376?style=flat) | A comprehensive Tableau dashboard providing a 360-degree view of business performance, consolidating data across sales, products, and customers to create a single source of truth. | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) |
 | **[Customer Purchase Prediction](https://github.com/vytautas-fin/santander-customer-purchase-prediction)** | ![Machine learning](https://img.shields.io/badge/Machine_Learning-0078D4?style=flat) | A machine learning model that predicts the likelihood of a customer making a future transaction, helping a bank optimize its marketing spend and personalize its services. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
