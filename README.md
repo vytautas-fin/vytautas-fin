@@ -19,6 +19,7 @@ Here are a few highlights of my work. Each project is a complete case study with
 | **[Cohort Analysis](https://github.com/vytautas-fin/customer-cohort-analysis)** | ![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-49A078?style=flat) ![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-3C564A?style=flat) | An analysis that tracks user retention by grouping customers into weekly cohorts to measure long-term loyalty and identify churn patterns. | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 | **[Customer Lifetime Value (CLV) Analysis](https://github.com/vytautas-fin/clv-cohort-analysis)** | ![Customer Analytics](https://img.shields.io/badge/Customer_Analytics-49A078?style=flat) ![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-3C564A?style=flat) | A data-driven customer lifetime value analysis that segments users into weekly cohorts using SQL and builds predictive model in Excel to forecast profitability timelines and guide strategic marketing investments. | ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
 <br>
+
 #### 🤖 Machine Learning Projects
 
 | Project | Type&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description | Technologies |
