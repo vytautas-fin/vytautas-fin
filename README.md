@@ -29,7 +29,7 @@ Here are a few highlights of my work. Each project is a complete case study with
 | **[House Price Prediction](https://github.com/vytautas-fin/house-price-predicion-model)** | ![Machine learning](https://img.shields.io/badge/Machine_Learning-0077b6?style=flat) ![Regression](https://img.shields.io/badge/Regression-34a0a4?style=flat) | A machine learning model using multiple regression algorithms (Linear, Decision Tree, Random Forest) to predict California house prices, providing insights into key factors affecting real estate values. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
 <br>
 
-#### 🔍 Exploratory & Learning Work
+#### 🔍 Data Explorations
 
 | Repository | Description |
 | :--- | :--- |
