@@ -33,7 +33,7 @@ Here are a few highlights of my work. Each project is a complete case study with
 
 | Repository | Description |
 | :--- | :--- |
-| **[data-explorations](https://github.com/vytautas-fin/data-explorations)** | Small-scale EDA projects on real-world datasets - patterns, insights, storytelling and visualizations |
+| **[Data Explorations](https://github.com/vytautas-fin/data-explorations)** | Small-scale EDA projects on real-world datasets - patterns, insights, storytelling and visualizations |
 ---
 
 ## 🛠️ Tools that I use
